@@ -20,7 +20,13 @@ const memory_verse= [
     {
         verse: 'John 10:40',
         message: "Didn't i tell you if you believe, you will see the glory of God?"
-    }
+    },
+    
+   {
+       verse: 'John 1:1',
+       message: 'In the beginning was the word, and the word was with God, and the word was God..'
+   }
+    
 
 
 ];
