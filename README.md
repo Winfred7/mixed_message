@@ -1,12 +1,12 @@
-#Mixed Messages Application
+# Mixed Messages Application
 
 Memory Verse generator script
 
-##Introducton
+## Introducton
 
 This is a simple message application that generates random memory verses each time the program is run.
 
-###Table of contents
+### Table of contents
 
   * [General info](#general-infor)
   * [Technologies](#technologies)
@@ -15,18 +15,18 @@ This is a simple message application that generates random memory verses each ti
   * [Inspiration](#inspiration)
   * [Contact](#contact)
 
-##General infor
+## General infor
    
    This is a simple random memory verse generator.
 
-##Technologies
+## Technologies
 
    This program is create with:
    * Node.js vs14.16.0
    * Javascript 
    * VS Code vs1.58
 
-##Setup
+## Setup
 
 To run this program, install node and open the command prompt in the program folder:
  
@@ -34,13 +34,13 @@ To run this program, install node and open the command prompt in the program fol
 
  $ node script.js
 
- ##Status
+ ## Status
      First Version completed 
 
-##Inspiration
+## Inspiration
     This is a Codecademy test for Git & GitHub Part I
 
-##Contact
+## Contact
  
   You can reach me on @[Winfred](https://www.linkedin.com/in/winfred-tornu-4a616072?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B163Z3c%2FSRfi355%2BZK5Rf%2Bg%3D%3D) 
 
